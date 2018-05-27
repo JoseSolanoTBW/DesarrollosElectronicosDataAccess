@@ -4,6 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Mauricio/Desktop/Patrones/dev/mongo-java-driver-3.7.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mauricio/Desktop/Patrones/dev/gson-2.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mauricio/Desktop/Patrones/dev/Git/DesarrollosElectronicosObjects/bin/ObjetosDesarrollo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mauricio/Desktop/Patrones/dev/Git/DesarrollosElectronicosObjects/bin/ObjetosDesarrolloElectronico.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
